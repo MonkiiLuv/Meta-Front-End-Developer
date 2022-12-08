@@ -106,4 +106,4 @@ You can also see your score in your Programming Assignment "My Submission" tab.
 
 ## Final Result
 
-<img src="./result.png" width=500>
+<img src="./final.png" width=500>
